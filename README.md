@@ -1,6 +1,8 @@
 # kbd_backlight
 Controls the keyboard backlight on Linux
 
+This fork uses smc::kbd_backlight instead as needed for some machines such as Macbook Air.  
+
 Options:
 
 -e
