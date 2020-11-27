@@ -2,6 +2,7 @@
 Controls the keyboard backlight on Linux
 
 This fork uses smc::kbd_backlight instead as needed for some machines such as Macbook Air.
+
 Forked from: https://github.com/Spauldo/kbd_backlight
 
 Options:
