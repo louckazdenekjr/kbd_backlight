@@ -39,7 +39,7 @@ main(int argc, char *argv[])
 	int level = -1;
 	char level_str[4] = "";
 	int fd;
-	const char *kbd_file = "/sys/class/leds/kbd_backlight/brightness";
+	const char *kbd_file = "/sys/class/leds/smc::kbd_backlight/brightness";
 
 	eflg = dflg = lflg = 0;
 
